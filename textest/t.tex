@@ -1,0 +1,49 @@
+\documentclass{article}
+\title{testiranje}
+\author{Jan Panjan}
+
+\begin{document}
+
+\maketitle
+
+Halo. Pozdravljen. Hočem naredit list:
+
+\begin{itemize}
+	\item prvi
+	\item drugi
+		\begin{itemize}
+			\item tretji
+		\end{itemize}
+\end{itemize}
+
+in lče sem zdaj turkaj ni več list, ane. Kaj pa če samo kot
+markdown uporabim minuse=?
+
+- prvi
+
+- drugi
+
+- tretji
+
+Pač kinda dela, ane. Kaj pa zvezdice?
+
+* prvi
+
+* drugi
+
+* tretji
+
+	* nested
+
+Okej v bistvu ne dela. Back to itemize.::
+
+\begin{enumerate}
+	\item prvi
+		\begin{enumerate}
+			\item tretji
+			\item okej v bistvu moram naredit enumerate da dobim črke..
+		\end{enumerate}
+	\item drugi
+\end{enumerate}
+
+\end{document}
