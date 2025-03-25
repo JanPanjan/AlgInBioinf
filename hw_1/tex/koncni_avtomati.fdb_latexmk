@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1742668149.56395 "koncni_avtomati.tex" "koncni_avtomati.pdf" "koncni_avtomati" 1742668149.96983 0
+["pdflatex"] 1742922966.6464 "koncni_avtomati.tex" "koncni_avtomati.pdf" "koncni_avtomati" 1742922967.21015 0
   "/etc/texmf/web2c/texmf.cnf" 1742390145.37156 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/pogacha/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1742390852.39446 11524 b62600e65b5660797f6e26f6a96e944e ""
   "/home/pogacha/.texlive2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1742390213 6829267 d959a08008005a566e2a01ce835f677e ""
@@ -115,8 +115,8 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1720733508 41397 9faae6d82bd50f2dbfc10ae285bd31e2 ""
   "/usr/share/texmf/web2c/texmf.cnf" 1720733508 41397 9faae6d82bd50f2dbfc10ae285bd31e2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1742570924 128028 f533b797fba58d231669ea19e894e23e ""
-  "koncni_avtomati.aux" 1742668149.92818 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
-  "koncni_avtomati.tex" 1742668149.46919 4950 b51eaa067a483556e8df1df0390780ec ""
+  "koncni_avtomati.aux" 1742922967.16663 32 2d1df76398b3c48c6419a45a7331db2d "pdflatex"
+  "koncni_avtomati.tex" 1742922966.54964 7690 640a48998188abff073046ae0279ac74 ""
   (generated)
   "koncni_avtomati.aux"
   "koncni_avtomati.log"
