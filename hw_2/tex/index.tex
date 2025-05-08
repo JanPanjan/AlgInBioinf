@@ -7,10 +7,16 @@
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{amssymb}
-
 \usepackage[table]{xcolor}
-\pagecolor{black}
-\color{white}
+
+\definecolor{obsidianDarkGray}{HTML}{131313} % A common dark gray for backgrounds
+\definecolor{obsidianLightGray}{HTML}{CCCCCC} % A common light gray for text
+
+\pagecolor{obsidianDarkGray} % Set page background to dark gray
+\color{obsidianLightGray} % Set default text color to light gray
+
+% \pagecolor{black}
+% \color{white}
 
 \title{Algoritmi v bioinformatiki - 2. Domača naloga}
 \author{Jan Panjan}
@@ -147,13 +153,13 @@
 				naslednjo tabelo:}
 
 				\begin{center}
-					\includegraphics[scale=0.2]{NW-tabela.png}
+					\includegraphics[scale=0.17]{NW-tabela.png}
 				\end{center}
 
 				\textit{Dopolnite tabelo tako, da poračunate vrednosti (in ustrezne puščice) za zadnji dve vrstici.}
 
 				\begin{center}
-					\includegraphics[scale=0.25]{matrika-complete-1.png}
+					\includegraphics[scale=0.21]{matrika-complete-1.png}
 				\end{center}
 
 			\item \textit{Koliko optimalnih globalnih poravnav dobite? Izpišite vse rešitve.}
@@ -179,11 +185,11 @@
 				Z matrikami to izgleda tako:
 
 				\begin{multicols}{2}
-					\includegraphics[scale=0.25]{matrika-complete-2}
+					\includegraphics[scale=0.23]{matrika-complete-2}
 
 					\columnbreak
 
-					\includegraphics[scale=0.25]{matrika-complete-3}
+					\includegraphics[scale=0.23]{matrika-complete-3}
 				\end{multicols}
 		\end{enumerate}
 
@@ -1123,8 +1129,10 @@
 			\node (5) at (1, 0) {$g_5$};
 
 			\node (2) at (-7,0) {$g_2$};
-			\node (C7) at (-2.5, 4.759) {};
+			\node (C7) at (-3.5, 4.759) {};
 			\node (C6) at (0, 3.629) {};
+
+			\node (all) at (-3.5, 5.5) {};
 
 			\node (6) at (3,0) {$g_6$};
 			\node (C4) at (4, 2.784) {};
@@ -1145,6 +1153,8 @@
 
 			\draw (2)  |- (C7.center);
 			\draw (C6) |- (C7.center);
+
+			\draw(C7) -- (all.center);
 
 			\draw (C3) |- (C6.center);
 			\draw (C5) |- (C6.center);
@@ -1169,7 +1179,6 @@
 			\draw[dashed,color=gray] (-8, 4.759) -- node[above right]{$C_7$} (-7, 4.759);
 			\draw[color=gray] (-8, 4.759) -- (-8.1, 4.759) node[left] {} ;
 		\end{tikzpicture}
-
 
 \end{enumerate}
 \end{document}
