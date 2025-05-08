@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1746646837.92123 "index.tex" "index.pdf" "index" 1746646838.74995 0
+["pdflatex"] 1746744795.2245 "index.tex" "index.pdf" "index" 1746744796.33591 2
   "/etc/texmf/web2c/texmf.cnf" 1742390145.37156 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/pogacha/.texlive2024/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk" 1742390852.39446 11524 b62600e65b5660797f6e26f6a96e944e ""
   "/home/pogacha/.texlive2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1742390213 6829267 d959a08008005a566e2a01ce835f677e ""
@@ -33,6 +33,7 @@
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1248133631 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb" 1248133631 32915 7bf7720c61a5b3a7ff25b0964421c9b6 ""
@@ -138,8 +139,8 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1720733508 41397 9faae6d82bd50f2dbfc10ae285bd31e2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1742570924 128028 f533b797fba58d231669ea19e894e23e ""
   "NW-tabela.png" 1746617463.56611 113185 5e26fcec5cadfdc3ed59f6fc3b5a9e4f ""
-  "index.aux" 1746646838.68851 1083 b20ce6c317076b6997a4fa128c367eac "pdflatex"
-  "index.tex" 1746646837.80152 14229 ee3b706a6aa13d10135fff045297f292 ""
+  "index.aux" 1746744796.26602 3808 60b3d1dde2cf6a20e5483956e8a93a05 "pdflatex"
+  "index.tex" 1746744795.12405 33350 0dbb4bec848f69e2ce48b6b847cc6ed9 ""
   "matrika-complete-1.png" 1746619337.71806 123850 24ee7ea67bd45aef4e6e16e4aac64fc1 ""
   "matrika-complete-2.png" 1746619474.92778 122253 21aef2aebcbf0770de996939430b2d3b ""
   "matrika-complete-3.png" 1746619538.04674 122170 2e05fd823e80d3af865c50acebee0f80 ""
